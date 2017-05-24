@@ -15,9 +15,7 @@ We used CrowdFlower (https://www.crowdflower.com/) as our crowdsourcing annotati
 
 Percentage agreement for the constructiveness question was 87.88, suggesting that constructiveness can be reliably annotated. (Other measures of agreement, such as kappa, are not easily computed with CrowdFlower data, because many different annotators are involved.). Constructiveness seemed to be equally distributed in our dataset: Out of the 1,121 comments, 603 comments (53.79\%) were classified as constructive, 517 (46.12\%) as non-constructive, and the annotators were not sure in only one case. 
 
-For toxicity, we asked annotators a multiple-choice question: 
-
-How toxic is the comment? Four answers were possible:
+For toxicity, we asked annotators a multiple-choice question, *How toxic is the comment?* Four answers were possible:
 
   - Very toxic
   - Toxic
