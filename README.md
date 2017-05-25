@@ -1,4 +1,4 @@
-# constructiveness_toxicity_annotations
+# Constructiveness and Toxicity Corpus - CTC
 
 The CSV file contains annotations for constructiveness and toxicity in news comments.
 
