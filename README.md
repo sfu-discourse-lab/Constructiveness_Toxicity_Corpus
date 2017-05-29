@@ -20,6 +20,6 @@ For toxicity, we asked annotators a multiple-choice question, *How toxic is the 
   - Mildly toxic
   - Not toxic
 
-More information on the annotation, and the instructions to annotators, is available in the constructiveness_toxicity_instructions file. 
+More information on the annotation, and the instructions to annotators, is available in the CrowdFlower_instructions file. 
 
 
