@@ -1,6 +1,10 @@
+# Note that this page is outdated and we have [an updated version of the corpus](https://github.com/sfu-discourse-lab/SOCC).
+
 # Constructiveness and Toxicity Corpus - CTC
 
 The CSV file contains annotations for constructiveness and toxicity in news comments.
+
+
 
 # Paper
 This work is described in a paper to appear in the Proceedings of the First Workshop on Abusive Language Online, at the Meeting of the Association for Computational Linguistics in Vancouver, August 2017. https://sites.google.com/site/abusivelanguageworkshop2017/
